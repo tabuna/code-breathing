@@ -36,9 +36,10 @@ XX
 
 ```php
 XXXXXXXX XXXXX XXX
-        XX XXXXX XXXXXXXX XXX
-            XXXXX XX XXXX
-        XX
+
+    XX XXXXX XXXXXXXX XXX
+        XXXXX XX XXXX
+    XX
 
     XXXXX XXXXXXX
 XX
