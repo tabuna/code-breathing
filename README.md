@@ -62,7 +62,10 @@ function add($a, $b) {
 
 ```php
 // Вариант B
-function addTwoNumbersWithMeaningfulNames(int $firstOperandValue, int $secondOperandValue): int {
+function addTwoNumbersWithMeaningfulNames(
+    int $firstOperandValue,
+    int $secondOperandValue
+): int {
     return $firstOperandValue + $secondOperandValue;
 }
 ```
