@@ -55,7 +55,7 @@ XX
 
 ```php
 // Вариант A
-function add($a, $b) {
+function add(int $a, int $b): int {
     return $a + $b;
 }
 ```
